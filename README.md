@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jason!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&animation=twinkling" />
   
-  <h3><b>Founder & Principal Consultant at Domain Methods | Data Engineer | Analytics Expert</b></h3>
+  <h3><b>Founder & Principal Consultant at Domain Methods | AI Systems Engineer | Vibe Coder</b></h3>
 
   <p>
     I specialize in bridging the gap between technical data engineering and business-level revenue operations.
-    I help mid-market SaaS and ecommerce teams build data foundations they can actually trust.
+    Through AI systems engineering and AI-driven vibe coding, I help mid-market SaaS and ecommerce teams build data foundations they can actually trust and activate.
   </p>
 
   <p align="center">
@@ -18,12 +18,12 @@
 <br/>
 
 ## 🚀 About Me
-- 🔭 I’m currently working as **Founder & Principal Consultant at [Domain Methods](https://www.domainmethods.com)**, focusing on turning messy marketing data into revenue-driving decisions.
-- 🌱 I’m currently exploring deeper integrations with **AI-Powered Data Activation and Reverse ETL workflows**.
-- 👯 I’m looking to collaborate on **Data Engineering, dbt implementations, and advanced Attribution Modeling**.
-- 💬 Ask me about **Data Strategy, Analytics Engineering, dbt, and Revenue Operations**.
+- 🔭 I’m currently working as **Founder & Principal Consultant at [Domain Methods](https://www.domainmethods.com)**, focusing on AI systems engineering to turn messy marketing data into revenue-driving decisions.
+- 🌱 I’m currently exploring deeper integrations with **AI-Driven Vibe Coding, Agentic Workflows, and Reverse ETL**.
+- 👯 I’m looking to collaborate on **AI Systems Architecture, Data Engineering, and advanced Attribution Modeling**.
+- 💬 Ask me about **AI Systems, Data Strategy, Analytics Engineering, dbt, and Revenue Operations**.
 - 📫 How to reach me: **Through my [LinkedIn](https://linkedin.com/in/jasonbhart) or [Domain Methods](https://www.domainmethods.com)**
-- ⚡ Fun fact: **I love turning warehouse data into actionable business intelligence.**
+- ⚡ Fun fact: **I love combining structured data engineering with the creative flow of AI-driven vibe coding.**
 
 <br/>
 
@@ -50,6 +50,13 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery" />
+</p>
+
+### AI & Agentic Workflows
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
 <br/>
