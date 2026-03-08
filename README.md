@@ -57,13 +57,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonbhart&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jasonbhart&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonbhart&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbhart&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jasonbhart&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
@@ -71,7 +71,7 @@
 ## 🏆 Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jasonbhart&theme=radium&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=jasonbhart&theme=radium&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
