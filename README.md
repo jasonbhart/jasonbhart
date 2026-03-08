@@ -40,7 +40,7 @@
 ### Cloud & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://badgen.net/badge/AWS/AWS/232F3E?icon=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg&labelColor=232F3E&color=232F3E" alt="AWS" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
 </p>
 
