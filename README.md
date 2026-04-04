@@ -11,18 +11,19 @@
   <p align="center">
     <a href="https://linkedin.com/in/jasonbhart"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/jasonbhart"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://www.domainmethods.com"><img src="https://img.shields.io/badge/Domain_Methods-FF5722?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Domain Methods" /></a>
+    <a href="https://domainmethods.com"><img src="https://img.shields.io/badge/Domain_Methods-FF5722?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Domain Methods" /></a>
+    <a href="https://github.com/domainmethods"><img src="https://img.shields.io/badge/Domain_Methods_Org-181717?style=for-the-badge&logo=github&logoColor=white" alt="Domain Methods GitHub Org" /></a>
   </p>
 </div>
 
 <br/>
 
 ## 🚀 About Me
-- 🔭 I’m currently working as **Founder & Principal Consultant at [Domain Methods](https://www.domainmethods.com)**, focusing on AI systems engineering to turn messy marketing data into revenue-driving decisions.
+- 🔭 I’m currently working as **Founder & Principal Consultant at [Domain Methods](https://domainmethods.com)** ([GitHub Org](https://github.com/domainmethods)), focusing on AI systems engineering to turn messy marketing data into revenue-driving decisions.
 - 🌱 I’m currently exploring deeper integrations with **AI-Driven Vibe Coding, Agentic Workflows, and Reverse ETL**.
 - 👯 I’m looking to collaborate on **AI Systems Architecture, Data Engineering, and advanced Attribution Modeling**.
 - 💬 Ask me about **AI Systems, Data Strategy, Analytics Engineering, dbt, and Revenue Operations**.
-- 📫 How to reach me: **Through my [LinkedIn](https://linkedin.com/in/jasonbhart) or [Domain Methods](https://www.domainmethods.com)**
+- 📫 How to reach me: **Through my [LinkedIn](https://linkedin.com/in/jasonbhart) or [Domain Methods](https://domainmethods.com)**
 - ⚡ Fun fact: **I love combining structured data engineering with the creative flow of AI-driven vibe coding.**
 
 <br/>
